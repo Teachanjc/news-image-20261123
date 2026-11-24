@@ -1,3 +1,9 @@
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/Teachanjc/news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/Teachanjc/news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+
+Built for [news-image-20261123](https://make.fun/bounty/news-image-20261123) on make.fun.
+
 # news-image-20261123-bot
 
 A newspaper front page summing up the world's news of Monday 23 November 2026 in one image: COP31 collapsing in Antalya with no deal on fossil fuels, Ukraine saying its drones sank a Russian warship off Libya, Russian strikes killing at least 15 around Kyiv, a factory fire in Indonesia killing 24 with about 30 missing, and Nvidia reinstating Jensen Huang as chief executive 11 days after he resigned.
